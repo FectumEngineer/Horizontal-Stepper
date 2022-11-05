@@ -12,7 +12,9 @@ and the Flutter guide for
 -->
 
 This is a horizontal stepper can be used to indicate the progress in multiple stage.
-<!-- |![Blink](https://github.com/imujtaba8488/showcase/blob/master/im_stepper/dot_stepper/effects/blink.gif) -->
+|![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Screenshot_20221105-162021.jpg)
+|![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Screenshot_20221105-162029.jpg)
+
 
 
 ## Features
