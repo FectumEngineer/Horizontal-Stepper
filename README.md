@@ -25,14 +25,13 @@ To integrate the HorizontalStepper into your app, you need to import the import 
  which contains HorizontalStepper widget.
 
 // This is the sample data for the horizontal stepper
-
-  ``` HorizontalStepper(
+``` HorizontalStepper(
       totalStep: 4,
       completedStep: 3,
       selectedColor: Colors.red,
       backGroundColor: Colors.amber,
     );
-    ```
+```
 
 ## Widget Implementation
 
