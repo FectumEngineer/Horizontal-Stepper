@@ -1,7 +1,7 @@
-name: horizontal_stepper
-description: A new Flutter project.
+name: horizontal_stepper_step
+description: This is a package for a simple horizontal stepper ,this can be used to show the progress in form of steps.
 version: 0.0.1
-homepage:
+homepage: https://github.com/FectumEngineer/Horizontal-Stepper
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
