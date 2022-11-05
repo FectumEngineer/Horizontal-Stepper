@@ -12,8 +12,7 @@ and the Flutter guide for
 -->
 
 This is a horizontal stepper can be used to indicate the progress in multiple stage.
-|![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Screenshot_20221105-162021.jpg)
-![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Screenshot_20221105-162029.jpg)
+|![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Media_221105_193129.gif)
 
 
 
@@ -22,8 +21,8 @@ This is a horizontal stepper can be used to indicate the progress in multiple st
 To integrate the HorizontalStepper into your app, you need to import the import 'package:horizontal_stepper_step/horizontal_stepper.dart';
  which contains HorizontalStepper widget.
 
-// This is the sample data for the horizontal stepper
-``` HorizontalStepper(
+```
+HorizontalStepper(
       totalStep: 4,
       completedStep: 3,
       selectedColor: Colors.red,
@@ -33,7 +32,8 @@ To integrate the HorizontalStepper into your app, you need to import the import 
 
 ## Widget Implementation
 
-```class _MyHomePageState extends State<MyHomePage> {
+```
+class _MyHomePageState extends State<MyHomePage> {
      int _counter = 0;
      int _totalSteps = 5;
 
