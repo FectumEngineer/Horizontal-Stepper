@@ -1,6 +1,6 @@
 name: horizontal_stepper_step
 description: This is a package for a simple horizontal stepper ,this can be used to show the progress in form of steps.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/FectumEngineer/Horizontal-Stepper
 
 environment:

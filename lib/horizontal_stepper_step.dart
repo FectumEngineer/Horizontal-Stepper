@@ -1,4 +1,4 @@
-library horizontal_stepper;
+library horizontal_stepper_step;
 
 import 'package:flutter/cupertino.dart';
 
