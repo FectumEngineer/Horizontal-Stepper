@@ -13,13 +13,9 @@ and the Flutter guide for
 
 This is a horizontal stepper can be used to indicate the progress in multiple stage.
 |![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Screenshot_20221105-162021.jpg)
-|![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Screenshot_20221105-162029.jpg)
+![Blink](https://github.com/FectumEngineer/Horizontal-Stepper/blob/main/images/Screenshot_20221105-162029.jpg)
 
 
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 ## Getting started
 
